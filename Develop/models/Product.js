@@ -35,18 +35,6 @@ Product.init(
         isNumeric: true,
       },
     },
-    pages: {
-      type: DataTypes.INTEGER,
-      allowNull: false,
-    },
-    edition: {
-      type: DataTypes.INTEGER,
-      defaultValue: 1
-    },
-    is_paperback: {
-      type: DataTypes.BOOLEAN,
-      defaultValue: true
-    },
     category_id: {
       type: DataTypes.INTEGER,
       references: {
