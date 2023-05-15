@@ -19,7 +19,7 @@ This project is the proof that I learned through week 13. Build the back end fo
 https://github.com/Xandromus
 
 ## Walkthrough Video
-https://watch.screencastify.com/v/IcszfmhGqUrhQ9nBNaAp
+https://watch.screencastify.com/v/Bjx7gz3tkNaJc1JbtJUf
 
 ## GitHub Repository Link
 https://github.com/sawaks/Ecommerce-Back-End.git
